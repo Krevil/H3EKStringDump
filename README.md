@@ -1,7 +1,7 @@
 # H3EKStringDump
 String lists for use with the H3EK dumped using Assembly
 
-Some string lists may be formatted incorrectly, such as having new lines where it should have `|n or |r|n`. If you fix up a string list that was broken, feel free to submit it here and I'll correct it so other people can use it.
+Some string lists may be formatted incorrectly, such as having new lines where it should have `|n` or `|r|n`. If you fix up a string list that was broken, feel free to submit it here and I'll correct it so other people can use it.
 
 This isn't a definitive collection of string lists, some will be missing, such as string lists unique to campaign missions. If there's one in particular you'd like uploaded that isn't here, contact me on Discord `Krevil#0933` and I'll grab it for you.
 
